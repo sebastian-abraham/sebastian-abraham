@@ -32,14 +32,14 @@ I am passionate about **software development** and solving **data structure and 
 - 🖤 **C**: Love solving **DSA problems**  
 - ☕ **Java**: Intermediate level; exploring **Java GUI** and **JavaFX**  
 - 🐍 **Python**: Beginner level  
-- ➕➕ **C++**: Beginner level  
+- **C++**: Beginner level  
 
 ---
 
 ### 📊 Database Knowledge  
 
 - 💾 Basic understanding of **MySQL**
-- 🔥 Proficient in **Firebase** and **MongoDB**
+- 🔥 Proficient in **Firebase Realtime Database**
 - 🍃 Skilled in MongoDB using Mongoose
 
 ---
