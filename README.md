@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastian Abraham!  
 
-<!--
-**sebastian-abraham/sebastian-abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Engineering Student**  
+📍 Saintgits College of Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About Me  
+
+I am passionate about **software development** and solving **data structure and algorithm problems**. I enjoy working on projects, learning new technologies, and building impactful solutions!  
+
+---
+
+### 💻 Backend Development  
+
+- 🔥 Proficient in the Express-React-Node stack
+- 📂 Skilled in MongoDB with Mongoose
+- ☁️ Experience with Firebase for backend as a service
+
+---
+
+### 🌐 Frontend Development  
+
+- ⚛️ Currently learning **React**  
+- 🎨 Good understanding of **HTML**, **CSS**, and **Bootstrap**  
+- ✏️ Designed a project using **Figma**  
+
+---
+
+### 🚀 Programming Languages  
+
+- 🖤 **C**: Love solving **DSA problems**  
+- ☕ **Java**: Intermediate level; exploring **Java GUI** and **JavaFX**  
+- 🐍 **Python**: Beginner level  
+- ➕➕ **C++**: Beginner level  
+
+---
+
+### 📊 Database Knowledge  
+
+- 💾 Basic understanding of **MySQL**
+- 🔥 Proficient in **Firebase** and **MongoDB**
+- 🍃 Skilled in MongoDB using Mongoose
+
+---
+
+### 🛠️ Tools & Platforms  
+
+- 🖥️ Comfortable with **JavaScript** and **TypeScript**  
+- 🛠️ Worked with **Eclipse**, **VSCode**, and **Vim**  
+- 🐧 Beginner-level **Linux** and terminal commands  
+
+---
+
+### 🖼️ Other Interests  
+
+- 🤖 Experimented with **AI image generation** using **Stable Diffusion**  
+- 🧠 Always eager to learn new technologies and explore creative ideas  
+
+---
+
+## 🎯 Current Focus  
+
+- Building projects with the **MERN stack**  
+- Enhancing my skills in **React** and **frontend development**  
+- Tackling challenging **data structure problems** in **C**  
